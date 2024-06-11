@@ -1,7 +1,7 @@
 ---
 # try also 'default' to start simple
 theme: seriph
-zoom: 1.5
+zoom: 1.2
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 # background: https://cover.sli.dev
@@ -45,7 +45,7 @@ fonts:
 
 
 ---
-zoom: 1.5
+zoom: 1.2
 ---
 
 # مقدمه‌ای بر تایپ‌اسکریپت
@@ -56,7 +56,7 @@ zoom: 1.5
 </div>
 
 ---
-zoom: 1.5
+zoom: 1.2
 ---
 
 # نصب تایپ‌اسکریپت
@@ -81,7 +81,7 @@ tsc --version
 ```
 
 ---
-zoom: 1.5
+zoom: 1.2
 ---
 
 # اولین برنامه تایپ‌اسکریپت
@@ -111,7 +111,7 @@ tsc filename.ts
 ```
 
 ---
-zoom: 1.5
+zoom: 1.2
 ---
 
 # تایپ‌ها در تایپ‌اسکریپت
@@ -137,7 +137,7 @@ let c: Color = Color.Green;
 ```
 
 ---
-zoom: 1.5
+zoom: 1.2
 ---
 
 # اینترفیس‌ها در تایپ‌اسکریپت
@@ -162,7 +162,7 @@ console.log(greeter(user));
 ```
 
 ---
-zoom: 1.5
+zoom: 1.2
 ---
 
 # کلاس‌ها در تایپ‌اسکریپت
@@ -190,7 +190,7 @@ console.log(greeter.greet());
 ```
 
 ---
-zoom: 1.5
+zoom: 1.2
 ---
 
 <div dir="rtl">
