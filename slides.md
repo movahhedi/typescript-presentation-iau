@@ -45,6 +45,8 @@ fonts:
 
 
 ---
+zoom: 1.5
+---
 
 # مقدمه‌ای بر تایپ‌اسکریپت
 <div dir="rtl">
@@ -53,6 +55,8 @@ fonts:
 
 </div>
 
+---
+zoom: 1.5
 ---
 
 # نصب تایپ‌اسکریپت
@@ -76,6 +80,8 @@ npm install -g typescript
 tsc --version
 ```
 
+---
+zoom: 1.5
 ---
 
 # اولین برنامه تایپ‌اسکریپت
@@ -105,6 +111,8 @@ tsc filename.ts
 ```
 
 ---
+zoom: 1.5
+---
 
 # تایپ‌ها در تایپ‌اسکریپت
 <div dir="rtl">
@@ -129,6 +137,8 @@ let c: Color = Color.Green;
 ```
 
 ---
+zoom: 1.5
+---
 
 # اینترفیس‌ها در تایپ‌اسکریپت
 <div dir="rtl">
@@ -151,6 +161,8 @@ let user = { firstName: "John", lastName: "Doe" };
 console.log(greeter(user));
 ```
 
+---
+zoom: 1.5
 ---
 
 # کلاس‌ها در تایپ‌اسکریپت
@@ -177,6 +189,8 @@ let greeter = new Greeter("world");
 console.log(greeter.greet());
 ```
 
+---
+zoom: 1.5
 ---
 
 <div dir="rtl">
